@@ -1,0 +1,30 @@
+img {
+    width: 100%;
+    height: 600px;
+}
+
+h1,h2 {
+    text-align: center;
+    font-style: oblique;
+    text-transform: capitalize;
+}
+
+dl {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.para {
+    padding: 0% 20%;
+}
+
+.para2 {
+    font-weight: bolder;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+li {
+    text-align: center;
+    list-style-type: none;
+}
